@@ -1,8 +1,14 @@
 {
   "metadata": {
-    "counts": 0,
-    "generated": 1758295274,
-    "valid": 1758295274
+    "counts": 1,
+    "generated": 1758297151,
+    "valid": 1758297151
   },
-  "roas": []
+  "roas": [
+    {
+      "asn": "AS65500",
+      "prefix": "2001:db8::/128",
+      "maxLength": 128
+    }
+  ]
 }
